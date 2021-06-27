@@ -1,0 +1,9 @@
+- Download files as .zip
+- Extract folder 'Open Password Manager - Standalone exe'
+- Keep .exe, .txt, and .key file together!
+- Launch .exe and use programm
+---
+- Default Masterpassword is: root
+- You can change that in the options menu!
+- Always close program with 'Exit' in the main menu!
+- Enjoy
